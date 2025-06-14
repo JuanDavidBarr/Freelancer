@@ -2,7 +2,9 @@
 # Freelance's portfolio simulation
 
 This is a small simulation of a web-page from **bootstrap's** web site. The idea was to implement bootstrap's set of classes to get familiar with them and learn how to use this powerful tool along with insights we already know from **HTML** and **CSS**
+## Demo
 
+Feel free to take a look! [Demo](https://juandavidbarr.github.io/Freelancer/)
 ## Built with
 
 The following technologies were used in the developpment of this project:
