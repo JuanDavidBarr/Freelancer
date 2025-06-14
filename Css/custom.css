@@ -1,0 +1,43 @@
+.header__navbar, .footer{
+    background-color: #2c3e50;
+}
+.navbar__title, .navbar__button, .nav-link, .footer{
+    color: white;
+}
+.navbar__button{
+    background-color: #1abc9c;
+}
+.navbar__icon{
+    background-color: #1abc9c;
+}
+.hero__container, .main__about{
+    background-color: #00ba94;
+}
+.divider-container__divider{
+    border-top: 5px solid white;
+    width: 5rem;
+    border-radius: 5px;
+}
+.divider-container__divider--dark{
+    border-top: 5px solid black;
+}
+.hero__heading, .divider-container__icon--star, .hero__text, .about__divider-container, .main__about, .button-container__button{
+    color: white;
+}
+.star-dark{
+    color: black;
+}
+.form__container{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+.container__icon-container{
+    width:3.5rem;
+    height:3.5rem;
+    color: white;
+}
+.footer__container--copyright{
+    background-color: #1a252f;
+}
+
